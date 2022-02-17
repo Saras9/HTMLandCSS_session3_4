@@ -1,0 +1,28 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width:1200px;
+    margin:auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1{
+    width:30%;
+    margin: auto;
+}
+.box2{
+    width:60%;
+    margin: auto;
+}
+.box2_1{
+    width:35%;
+}
+.box2_1_1 img{
+    width:100%;
+}
+.box2_1{
+    padding:30px;
+}
